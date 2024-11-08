@@ -1,1 +1,1 @@
-# -unique-resume-builder-
+An unique Resume is a user-friendly resume builder designed to simplify resume creation, especially for graduates and those new to the process. It guides users through a form covering key sections like personal info, education, skills, and interests. Based on user responses, the system generates a professional, well-structured resume in the desired format, making the process quick and minimizing the need for design skills.
